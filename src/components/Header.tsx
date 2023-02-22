@@ -44,7 +44,7 @@ const Menu = () => {
                 </div>
               </div>
             </div>
-            <div className="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
+            {/* <div className="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
               {navigation.map((item) => (
                 <Link
                   spy={true}
@@ -64,7 +64,7 @@ const Menu = () => {
               >
                 Call to action
               </a>
-            </div>
+            </div> */}
           </nav>
         </div>
 
